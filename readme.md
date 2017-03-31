@@ -1,0 +1,1 @@
+This is an Amazon Skill that gives the user a very large number 10 million to the power of 10. Alexa then spells out the zeros and that kind of creates a rap like beat. Siri has a similar feature that has attracted a lot of attention on the internet.
